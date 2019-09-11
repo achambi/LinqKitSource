@@ -1,0 +1,4 @@
+D:\dev\LinqKitSource\bin\Release\LinqKit.dll
+D:\dev\LinqKitSource\bin\Release\LinqKit.pdb
+D:\dev\LinqKitSource\obj\Release\LinqKit.dll
+D:\dev\LinqKitSource\obj\Release\LinqKit.pdb

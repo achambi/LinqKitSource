@@ -1,0 +1,5 @@
+D:\dev\LinqKitSource\bin\Debug\LinqKit.dll
+D:\dev\LinqKitSource\bin\Debug\LinqKit.pdb
+D:\dev\LinqKitSource\obj\Debug\LinqKit.csprojResolveAssemblyReference.cache
+D:\dev\LinqKitSource\obj\Debug\LinqKit.dll
+D:\dev\LinqKitSource\obj\Debug\LinqKit.pdb
